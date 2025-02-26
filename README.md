@@ -22,7 +22,7 @@ A modern full-stack e-commerce application built with **React (Vite) for the fro
 
 ## 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/ecommerce.git
+git clone https://github.com/YOUR_USERNAME/E-commerce.git
 cd ecommerce
 ```
 ## 2️⃣ Install Dependencies & Run  
